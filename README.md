@@ -2,6 +2,6 @@
 Data Analysis portfolio
 
 ### responsabilities
--one
--two
+- one
+- two
 ### achievements
