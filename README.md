@@ -1,5 +1,7 @@
-# Practice
+# Business Intellicence Analyst
 Data Analysis portfolio
 
-#Titulo
-## Sub T
+###responsabilities
+-one
+-two
+###achievements
